@@ -1,0 +1,2 @@
+ollama #https://pypi.org/project/ollama/
+streamlit
